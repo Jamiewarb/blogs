@@ -138,3 +138,6 @@ The following questions can be used while reflecting to help measure the success
   - I inherently trust that every emotion is valid, but people are talking about their perspectives, so my job is to provide other perspectives that they might not have 
   - Talk about the problems to find those other perspectives, and can circle back to the direct report and even explain those perspectives
 
+## More Resources
+
+LeadDev has some great articles on 1:1s and the subject of management and leadership in general: https://leaddev.com/category/11s
