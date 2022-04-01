@@ -47,13 +47,13 @@ I record agenda points, actions and notes in a shared document with the direct r
 here](https://docs.google.com/document/d/1QK9H0k_zP2kmJDQLiK3LBV8mQLmXMtIvsflJpPJqb1g/edit#). I find this is important
 for a few reasons.
 
-First of all, it's a record of the 1:1s, which is great to look back over during review cycle. Second, it helps your
-direct report build trust in your and the personal time, by showing them what you're doing for them, and hopefully
-showing that the meeting is useful.
+First of all, it helps your direct report build trust in you and the personal time meeting, by showing them what you're
+doing for them, and hopefully showing that the meeting is useful. Second, it gives the direct report a place to throw 
+thoughts into, under "Agenda", so that they can forget about them until the next personal time meeting.
 
-It also gives the direct report a place to throw thoughts into, under "Agenda", so that they can forget about them
-until the next personal time meeting. Lastly, it helps you as a leader identify trends in how your direct reports
-are doing, such as those struggling in their roles, with their mental health or at home.
+It's also a record of the 1:1s, which is great to look back over during review cycle. Lastly, it helps you as a leader 
+identify trends in how your direct reports are doing, such as those struggling in their roles, with their mental health 
+or at home.
 
 #### Discuss the personal time traditions
 
