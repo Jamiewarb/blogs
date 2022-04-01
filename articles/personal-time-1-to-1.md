@@ -1,5 +1,12 @@
 # Personal Time / 1:1s
 
+* [What is Personal Time?](#personal-time-meetings-are-short-30-to-45-minute-meetings-between-a-manager-and-a-direct-report)
+* [How to run Personal Time meetings](#how-to-run-personal-time-meetings)
+  * [The first meeting is important to set the tone](#the-first-meeting-is-important-to-set-the-tone)
+  * [A loose structure guides through the meeting](#a-loose-structure-guides-through-the-meeting)
+* [Tips for the meetings](#tips-for-the-meeting)
+* [Self-reflection is important to keep improving your leadership](#self-reflection-is-important-to-keep-improving-your-leadership)
+
 ### Personal Time meetings are short 30 to 45 minute meetings between a manager and a direct report.
 
 It is time dedicated to the direct report, carved out of the manager's week. As such, the direct report should be setting
