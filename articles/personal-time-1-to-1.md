@@ -103,7 +103,7 @@ We also talk about timelines and expectations to make sure they're also clear.
 
 Finally, after the 1:1, I take a few minutes to reflect on how it went. See the section on self-reflection below.
 
-### Tips for the meeting
+## Tips for the meeting
 
 It's important that the personal meeting stays focused on the person, and not on their work. It's not the right time
 to catch up on how their tasks are progressing or if they've done their quarterly reports, unless that is specifically
