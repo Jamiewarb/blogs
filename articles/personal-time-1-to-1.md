@@ -35,8 +35,8 @@ from the very first meeting.
 
 #### First off, explain what personal time is
 
-Some people have never had personal time meetings, so it can be a new concept for them. The above description is all
-good information for a direct report.
+Some people have never had personal time meetings, so it can be a new concept for them. Talking through the above 
+description of what a Personal Time meeting is can be a great introduction for your direct report.
 
 Alongside that, I ask them to "think of me as a benefit to you, provided by Hex, a bit like your laptop. I'm here to
 make your life easier and your work better and faster. Use me to help you however I can."
