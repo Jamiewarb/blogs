@@ -134,7 +134,7 @@ The following questions can be used while reflecting to help measure the success
 - Were we aligned on the takeaways? 
 - Did the direct report leave with a renewed sense of purpose and motivation? Did they leave feeling better or worse? 
 - Did we come up with shared action items?
-- Verify with other direct reports if what this direct report is saying is true and get other sides of the story (with respect to how they felt about situations)
+- In problem situations, verify with other direct reports or team members if what this direct report is saying matches their perspective, and get other sides of the story (with respect to how they felt about situations)
   - I inherently trust that every emotion is valid, but people are talking about their perspectives, so my job is to provide other perspectives that they might not have 
   - Talk about the problems to find those other perspectives, and can circle back to the direct report and even explain those perspectives
 
