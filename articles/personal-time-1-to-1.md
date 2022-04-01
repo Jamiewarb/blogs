@@ -7,6 +7,8 @@
 * [Tips for the meetings](#tips-for-the-meeting)
 * [Self-reflection is important to keep improving your leadership](#self-reflection-is-important-to-keep-improving-your-leadership)
 
+[Quick link to Personal Time template doc](https://docs.google.com/document/d/1QK9H0k_zP2kmJDQLiK3LBV8mQLmXMtIvsflJpPJqb1g/edit#)
+
 ### Personal Time meetings are short 30 to 45 minute meetings between a manager and a direct report.
 
 It is time dedicated to the direct report, carved out of the manager's week. As such, the direct report should be setting
