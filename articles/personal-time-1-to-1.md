@@ -128,7 +128,7 @@ the direct report to think, which is an important part of their reflection proce
 After each 1:1, take a few minutes to reflect on it. Play it back in your head and try to think about what was 
 successful and what could be improved.
 
-The following questions can be used while reflection to help measure the success of the meeting:
+The following questions can be used while reflecting to help measure the success of the meeting:
 
 - Did they do most of the talking? 
 - Were we aligned on the takeaways? 
