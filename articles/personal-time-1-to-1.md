@@ -64,6 +64,14 @@ for the same from you as well." This helps set their expectations of me, and sho
 Lastly, I put these traditions at the bottom of their personal time document. This lets the direct report refer back to
 them, and they're reminded of those traditions when they open the document.
 
+As of writing, these traditions are:
+
+>- I’m always gonna meet in a quiet place where I can give you full focus and so we can have confidential discussions if need be
+>- I’ll always remove distractions, so I’m only gonna have two windows open, the first is Zoom and the second is our shared notes. I’m not going to be opening slack or checking email. I would expect that from you too.
+>- We’ll always reschedule instead of skipping. Your personal time is important to me, so if you’re busy or I’m busy, we’ll always reschedule and make time for it.
+>- I’ll always be prepared, having reviewed notes from our last 1:1s so that I can treat this time with the importance it deserves, and I hope you’ll be able to as well.
+>- I’ll always be turning my camera on so you can see me, I find it a lot easier to have a meaningful conversation that way, and I’d appreciate it if you can too but I won’t expect it, so if you don’t want to, that’s absolutely fine.
+
 
 ### A loose structure guides through the meeting 
 
